@@ -1,0 +1,8 @@
+# Core protocol
+kyber-py==1.2.0          # pure-Python ML-KEM (FIPS 203); Table 1's "kyber-py"
+cryptography>=42.0       # AES-256-GCM, HKDF, HMAC
+matplotlib>=3.8           # Fig. 3 / Fig. 4 reproduction
+
+# Qiskit demo (optional -- only needed for qiskit_demo/)
+qiskit>=1.0
+qiskit-aer>=0.14
