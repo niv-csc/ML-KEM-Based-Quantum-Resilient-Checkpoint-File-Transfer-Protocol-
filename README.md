@@ -110,6 +110,3 @@ The paper includes 14 references covering PQC standards, TLS benchmarking, and 5
 
 This repository provides a complete package for demonstrating the proposed ML-KEM‑based quantum‑resilient checkpoint file transfer protocol. It integrates theoretical analysis, practical implementation, reproducibility of results, and live demonstrations. The materials herein are intended to support both academic review and practical validation, ensuring that the protocol can be evaluated rigorously and presented effectively.
 
----
-
-This now reads like a **formal research README** with an **Abstract** up front, giving it the same structure and tone as your paper. It’s long, professional, and detailed — ideal for submission.
